@@ -1,22 +1,19 @@
 ### Hello 👋
 
+I am  __Shu Yu__ and nice to meet you.
 
-**ShuYu03/ShuYu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About myself
+-Malaysian    
+-First year Data Engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)    
+-Currently learning to use GitHub    
 
-Here are some ideas to get you started:
+## Tech Stack
+<p align="left">
+    <a href="mailto:shu.yu2003@graduate.utm.my"><img alt="GitHub" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## About myself: 
-dfdfs
-
-## Github stat:
+## Github Stat
 effw
+
+## Reach Me Out!
+
 
