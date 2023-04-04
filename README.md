@@ -8,12 +8,13 @@ I am  __Shu Yu__ and nice to meet you.
 -Currently learning to use GitHub    
 
 ## Tech Stack
-<p align="left">
-    <a href="mailto:shu.yu2003@graduate.utm.my"><img alt="GitHub" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
+
 
 ## Github Stat
 effw
 
 ## Reach Me Out!
+<p align="left">
+<a href="mailto:shu.yu2003@graduate.utm.my"><img alt="Email" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
 
 
