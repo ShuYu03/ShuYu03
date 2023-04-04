@@ -7,7 +7,7 @@ I am  __Shu Yu__ and nice to meet you!
 
 
 :small_blue_diamond:Malaysian       
-:small_blue_diamond:First year Data Engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
+:small_blue_diamond:First year data engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
 :small_blue_diamond:Currently learning to use GitHub       
 
 ### :telescope: Tech Stack :telescope:
