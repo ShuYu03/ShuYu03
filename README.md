@@ -8,7 +8,7 @@ I am  __Shu Yu__ and nice to meet you.
 -Currently learning to use GitHub    
 
 ## Tech Stack
-<img alt="GitHub" src="https://img.shields.io/twitter/url?label=Canva&logo=Canva&style=social&url=https%3A%2F%2Fwww.canva.com">
+<img alt="GitHub" src="https://img.shields.io/twitter/url?label=Canva&logo=Canva&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com">
 
 ## Github Stat
 effw
