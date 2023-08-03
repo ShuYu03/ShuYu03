@@ -8,9 +8,7 @@
 :small_blue_diamond:Currently learning to use GitHub       
 
 ## :telescope: Tech Stack :telescope:
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-<img alt="GitHub" src="https://img.shields.io/twitter/url?color=%09%2301C3CC&label=Canva&logo=Canva&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com"> <img alt="GitHub" src="https://img.shields.io/twitter/url?color=%23f89820%20&label=Java&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com"> <img alt="GitHub" src="https://img.shields.io/twitter/url?color=%235E97D0&label=C%2B%2B&logo=C%2B%2B&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com"> <img alt="GitHub" src="https://img.shields.io/twitter/url?color=%23164794&label=MS%20Word&logo=Microsoft%20word&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com"> <img alt="GitHub" src="https://img.shields.io/twitter/url?color=%23ED5B4C&label=MS%20PowerPoint&logo=Microsoft%20powerpoint&style=for-the-badge&url=https%3A%2F%2Fwww.canva.com">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
 ### :bar_chart: GitHub Stats :bar_chart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYu03&show_icons=true&theme=dracula)
