@@ -1,6 +1,6 @@
 <h1 align="center"> I am Shu Yu and nice to meet you! :relaxed::wave: </h1>
 
-##  :shaved_ice: About myself :shaved_ice:
+##  :shaved_ice: About Myself :shaved_ice:
 <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="250" align="right">
 
 Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering__ at the University of Technology Malaysia. My world revolves around computer science, coding, and data analysis. I'm fueled by a passion for exploring data-driven insights and envisioning its potential impact. As I journey forward, my sights are set on embarking on even more exciting projects centered around the realm of data engineering.
