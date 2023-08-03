@@ -3,13 +3,13 @@
 ##  :shaved_ice: About myself :shaved_ice:
 <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="250" align="right">
 
-Greetings! I'm Ng Shu Yu, currently pursuing a degree in Data Engineering at the University of Technology Malaysia. My world revolves around computer science, coding, and data analysis. I'm fueled by a passion for exploring data-driven insights and envisioning its potential impact. As I journey forward, my sights are set on embarking on even more exciting projects centered around the realm of data engineering.
+Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering__ at the University of Technology Malaysia. My world revolves around computer science, coding, and data analysis. I'm fueled by a passion for exploring data-driven insights and envisioning its potential impact. As I journey forward, my sights are set on embarking on even more exciting projects centered around the realm of data engineering.
 
-:small_blue_diamond:Name: Ng Shu Yu <br>
-:small_blue_diamond:Age: 20 <br>
-:small_blue_diamond:Nationality: Malaysian       
-:small_blue_diamond:Education: First year data engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
-:small_blue_diamond:Passion: Data analysis, programming
+:small_blue_diamond:__Name:__ Ng Shu Yu <br>
+:small_blue_diamond:__Age:__ 20 <br>
+:small_blue_diamond:__Nationality:__ Malaysian       
+:small_blue_diamond:__Education:__ First year data engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
+:small_blue_diamond:__Passion:__ Data analysis, programming
 
 ## :telescope: Tech Stack :telescope:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
