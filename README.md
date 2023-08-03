@@ -5,8 +5,8 @@
 
 Greetings! I'm Ng Shu Yu, currently pursuing a degree in Data Engineering at the University of Technology Malaysia. My world revolves around computer science, coding, and data analysis. I'm fueled by a passion for exploring data-driven insights and envisioning its potential impact. As I journey forward, my sights are set on embarking on even more exciting projects centered around the realm of data engineering.
 
-:small_blue_diamond:Name: Ng Shu Yu
-:small_blue_diamond:Age: 20 
+:small_blue_diamond:Name: Ng Shu Yu <br>
+:small_blue_diamond:Age: 20 <br>
 :small_blue_diamond:Nationality: Malaysian       
 :small_blue_diamond:Education: First year data engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
 :small_blue_diamond:Passion: Data analysis, programming
