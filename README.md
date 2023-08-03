@@ -2,6 +2,7 @@
 
 ###  :shaved_ice: About myself :shaved_ice:
 <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="200" float="right">
+
 :small_blue_diamond:Malaysian       
 :small_blue_diamond:First year data engineering student at [Universiti Teknologi Malaysia](https://www.utm.my)       
 :small_blue_diamond:Currently learning to use GitHub       
