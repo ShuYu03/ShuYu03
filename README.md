@@ -1,4 +1,4 @@
-# I am Shu Yu and nice to meet you! :relaxed::wave:
+<h1 align="center"> I am Shu Yu and nice to meet you! :relaxed::wave: </h1>
 
 ###  :shaved_ice: About myself :shaved_ice:
 <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="200" float="right">
