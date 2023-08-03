@@ -20,8 +20,8 @@ Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering_
 ## :bar_chart: GitHub Stats :bar_chart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYu03&show_icons=true&theme=dracula)
 
-### Reach Me Out! :mailbox_with_mail:
-Feel free to learn more about me and explore my past projects by visiting my LinkedIn profile. Thank you!
+## Reach Me Out! :mailbox_with_mail:
+Feel free to learn more about me and explore my past projects by visiting my LinkedIn profile. Thank you! <br>
 <a href="https://www.linkedin.com/in/ng-shu-yu-556884266/"><img alt="LinkedIn" src="https://img.shields.io/badge/-NgShuYu-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:shu.yu2003@graduate.utm.my"><img alt="Email" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
 
