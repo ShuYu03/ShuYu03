@@ -1,7 +1,7 @@
 <h1 align="center"> I am Shu Yu and nice to meet you! :relaxed::wave: </h1>
 
 ###  :shaved_ice: About myself :shaved_ice:
-<table>
+<table style="border: none">
 <tr>
 <td>
 :small_blue_diamond:Malaysian       
