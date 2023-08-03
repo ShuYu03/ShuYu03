@@ -14,10 +14,13 @@ Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering_
 ## :telescope: Tech Stack :telescope:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 
+## :link: Project :link: 
+:small_orange_diamond: [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
+
 ## :bar_chart: GitHub Stats :bar_chart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYu03&show_icons=true&theme=dracula)
 
-### Reach Me Out! 📫
+### Reach Me Out! :mailbox:
 <a href="https://www.linkedin.com/in/ng-shu-yu-556884266/"><img alt="LinkedIn" src="https://img.shields.io/badge/-NgShuYu-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:shu.yu2003@graduate.utm.my"><img alt="Email" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
 
