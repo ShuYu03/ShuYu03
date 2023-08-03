@@ -1,7 +1,8 @@
 ## Hello :relaxed::wave:
-<p> <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" alt="Alt Text" width="100"> </p>
+<p> <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="200"> </p>
 
-I am  __Shu Yu__ and nice to meet you! 
+
+<h1 align="center"> I am <b>Shu Yu</b> and nice to meet you! </h1>
 
 ###  :shaved_ice: About myself :shaved_ice:
 
