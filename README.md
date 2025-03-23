@@ -38,7 +38,7 @@ My team and I analyzed the link between midwifery personnel availability and inf
 
 My team used RStudio to analyze relationships between COVID-19 variables through one-sample tests, correlation, regression, and ANOVA. These methods helped us verify claims and uncover patterns in the data. 
 
-### Prototype Building
+### Application Prototype Development
 
 :small_orange_diamond: [FluencyBot (AI-Powered English Speaking App) Botpress Prototype](#)
 
