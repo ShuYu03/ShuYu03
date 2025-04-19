@@ -3,7 +3,8 @@
 ##  :shaved_ice: About Myself :shaved_ice:
 <img src="https://i.pinimg.com/originals/c2/a1/1d/c2a11dae4a9e153f1d01a12107ca3912.gif" alt="Alt Text" width="250" align="right">
 
-Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering__ at the University of Technology Malaysia. I am passionate about building scalable data pipelines, optimizing database systems, and ensuring efficient data processing for analytics. I am skilled in MySQL, Python, and big data technologies, with hands-on experience in database design and system development. As I journey forward, my sights are set on applying technical knowledge to real-world projects and continuously learning emerging data engineering tools. I am seeking an opportunity to contribute to data-driven solutions and grow into a future data engineer.
+Greetings! I'm __Ng Shu Yu__, currently pursuing a degree in __Data Engineering__ at the University of Technology Malaysia. I am passionate about data processing for analytics. I am skilled in MySQL, Python, and big data technologies, with hands-on experience in data analytics and system development. 
+As I journey forward, my sights are set on applying technical knowledge to real-world projects and continuously learning emerging data engineering tools. I am seeking an opportunity to contribute to data-driven solutions and grow into a future data engineer.
 
 :small_blue_diamond:__Name:__ Ng Shu Yu <br>
 :small_blue_diamond:__Age:__ 21 <br>
@@ -67,6 +68,6 @@ My team developed a Hospital Patient Management System in Java, using Shortest R
 ## Reach Me Out! :mailbox_with_mail:
 Feel free to learn more about me and explore my past projects by visiting my LinkedIn profile. Thank you! <br> <br>
 <a href="https://www.linkedin.com/in/ng-shu-yu-556884266/"><img alt="LinkedIn" src="https://img.shields.io/badge/-NgShuYu-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:shu.yu2003@graduate.utm.my"><img alt="Email" src="https://img.shields.io/badge/Email-shu.yu2003%40graduate.utm.my-red"></a>
+<a href="mailto:ngshuyu.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ngshuyu.work%40gmail.com-red"></a>
 
 
